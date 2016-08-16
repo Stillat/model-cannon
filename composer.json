@@ -1,0 +1,19 @@
+{
+    "name": "stillat/model-cannon",
+    "description": "Gives you a models directory in Laravel without thinking. If you're into that sort of thing.",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Johnathon Koster",
+            "email": "john@stillat.com"
+        }
+    ],
+    "require": {
+        "illuminate/console": "^5.2"
+    },
+    "autoload": {
+        "psr-4": {
+            "Stillat\\ModelCannon\\": "src/"
+        }
+    }
+}
