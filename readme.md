@@ -22,7 +22,7 @@ Stillat\ModelCannon\ModelCannonServiceProvider::class,
 
 ## Usage
 
-It couldn't be simpler! Just use Laravel's `make:model` command like you always ahve. The only difference is now models will be stored in a `Models` directory and have the correct `Models` namepsace added automatically. Seriously, that is all there is to it.
+It couldn't be simpler! Just use Laravel's `make:model` command like you always have. The only difference is now models will be stored in a `Models` directory and have the correct `Models` namepsace added automatically. Seriously, that is all there is to it.
 
 ```
 php artisan make:model User
